@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jadwal Sholat</string>
+    <string name="hari_ini">Hari Ini</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="subuh">Subuh</string>
+    <string name="syuruq">Syuruq</string>
+    <string name="dhuhur">Dhuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya\'</string>
+    <string name="ubah_bahasa">Bahasa</string>
+    <string name="segarkan_lokasi">Segarkan Lokasi</string>
+    <string name="cari">Cari</string>
+    <string name="tunggu">Mohon untuk menunggu...!!!</string>
+    <string name="cobalagi">Maaf, Silahkan coba lagi...!!!</string>
+
+</resources>

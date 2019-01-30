@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prayer Times</string>
+    <string name="hari_ini">Today</string>
+    <string name="lokasi">Location</string>
+    <string name="subuh">Fajr</string>
+    <string name="syuruq">Shurooq</string>
+    <string name="dhuhur">Dhuhr</string>
+    <string name="ashar">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isha</string>
+    <string name="ubah_bahasa">Language</string>
+    <string name="segarkan_lokasi">Refresh Location</string>
+    <string name="cari">Search</string>
+    <string name="tunggu">Please Wait...!!!</string>
+    <string name="cobalagi">Sorry, Please try again...!!!</string>
+</resources>
